@@ -1,0 +1,31 @@
+#commentSec{
+	border:1px solid black;
+	width: 800px;
+	height: 500px;
+	overflow: auto;
+}
+
+.commentForm{
+	border:1px solid black;
+	width:760px;
+	height: 200px;
+	margin-left: 20px;
+	margin-right: 20px;
+	margin-top: 20px;
+}
+
+.commentForm > div{
+	text-align: center;
+	margin-top: 12px;
+}
+
+.comment{
+	border:1px solid black;
+	width:760px;
+	height: 100px;
+	margin-left: 20px;
+	margin-right: 20px;
+	text-align: center;
+	margin-top: 10px;
+}
+
